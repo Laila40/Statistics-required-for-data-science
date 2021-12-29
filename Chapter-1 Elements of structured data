@@ -1,1 +1,4 @@
-These days data generation sources are many such as 
+Types of data in general:
+
+---> Numerical data: Continuous(in interval ranges) and discrete
+---> Categorical data: Binary and ordinal(contain some order in it)
