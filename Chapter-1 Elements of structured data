@@ -2,3 +2,15 @@ Types of data in general:
 
 ---> Numerical data: Continuous(in interval ranges) and discrete
 ---> Categorical data: Binary and ordinal(contain some order in it)
+
+1. Numerical data - Data that are expressed on a numeric scale.
+
+  1.1 Continuous data: Data that can take on any value in an interval. 
+  1.2 Discrete data: Data that can take on only integer values, such as counts. 
+
+2. Categorical data - Data that can take on only a specific set of values representing a set of possible
+                      categories. 
+                      
+  2.1 Binary: A special case of categorical data with just two categories of values, e.g., 0/1,
+              true/false.
+  2.2 Ordinal: Categorical data that has an explicit ordering.
